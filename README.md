@@ -4,7 +4,7 @@ I am a Physics, Mathematics, and Computer Science student at the University of F
 
 ## Current Work
 
-- Conducting machine-learning research on solar-wind regime identification using Solar Orbiter and ACE observations
+- Conducting machine-learning research on solar-wind regime identification using Solar Orbiter and ACE observations; manuscript in preparation
 - Building quantitative-finance projects involving derivatives pricing, market microstructure, and stochastic simulation
 - Strengthening my background in probability, stochastic processes, algorithms, and software development
 
