@@ -8,7 +8,7 @@ I am a Physics, Mathematics, and Computer Science student at the University of F
 - Building quantitative-finance projects involving derivatives pricing, market microstructure, and stochastic simulation
 - Strengthening my background in probability, stochastic processes, algorithms, and software development
 
-## Featured Project
+## Featured Projects
 
 ### Limit Order Book Simulator
 
