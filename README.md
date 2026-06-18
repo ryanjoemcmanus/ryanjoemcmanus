@@ -24,6 +24,20 @@ An event-driven Python market microstructure research project featuring:
 
 [View the project](https://github.com/ryanjoemcmanus/limit-order-book-simulator)
 
+### Monte Carlo Options Pricer
+
+A Python derivatives analytics project featuring:
+
+- European and Asian option pricing
+- Black-Scholes validation
+- Antithetic and control-variate methods
+- Monte Carlo Greeks estimation
+- Implied volatility solving
+- Volatility-smile analysis
+- Real option-chain exploration through an interactive Streamlit dashboard
+
+[View the project](https://github.com/ryanjoemcmanus/monte-carlo-options-pricer)
+
 ## Technical Skills
 
 **Languages:** Python, Java, C++, SQL  
