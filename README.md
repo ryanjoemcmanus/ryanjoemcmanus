@@ -12,7 +12,7 @@ I am a Physics, Mathematics, and Computer Science student at the University of F
 
 ### Limit Order Book Simulator
 
-An event-driven Python market microstructure research project featuring:
+An event-driven, synthetic-data market microstructure research project focused on order-flow simulation, execution costs, and inventory-aware quoting:
 
 - Price-time-priority order matching
 - Market and limit orders
@@ -20,21 +20,21 @@ An event-driven Python market microstructure research project featuring:
 - Passive and inventory-aware market making
 - Adverse-selection analysis
 - PnL attribution
-- Synthetic ETF premium/NAV arbitrage
+- Reproducible synthetic backtests
 
 [View the project](https://github.com/ryanjoemcmanus/limit-order-book-simulator)
 
 ### Monte Carlo Options Pricer
 
-A Python derivatives analytics project featuring:
+A reproducible Python derivatives-research project focused on stochastic simulation, variance reduction, and benchmark validation:
 
 - European and Asian option pricing
 - Black-Scholes validation
 - Antithetic and control-variate methods
+- Sobol quasi-Monte Carlo
 - Monte Carlo Greeks estimation
-- Implied volatility solving
-- Volatility-smile analysis
-- Real option-chain exploration through an interactive Streamlit dashboard
+- Implied-volatility and volatility-smile analysis
+- Interactive exploration with delayed demonstration option data
 
 [View the project](https://github.com/ryanjoemcmanus/monte-carlo-options-pricer)
 
