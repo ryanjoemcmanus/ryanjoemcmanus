@@ -1,6 +1,6 @@
 # Hi! I'm Ryan McManus
 
-I am a Physics, Mathematics, and Computer Science student at the University of Florida interested in quantitative research, machine learning, scientific computing, and financial markets.
+I am a Physics, Computer Science, and Mathematics student at UF interested in machine learning, scientific computing, software engineering, quantitative modeling, and data-driven systems.
 
 ## Current Work
 
